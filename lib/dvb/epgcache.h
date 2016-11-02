@@ -342,7 +342,6 @@ public:
 	PyObject *search(SWIG_PYOBJECT(ePyObject));
 
 //BlackHole
-        SWIG_VOID(RESULT) readXmltv(SWIG_PYOBJECT(ePyObject));
         SWIG_VOID(RESULT) Nab_reset_timer();
 //end
 
